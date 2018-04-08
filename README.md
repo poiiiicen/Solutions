@@ -1,2 +1,2 @@
 # Solutions
-Solutions for LeetCode !!!!!!!!!!
+Solutions for LeetCode and any other problems
